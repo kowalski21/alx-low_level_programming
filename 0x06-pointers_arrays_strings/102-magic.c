@@ -1,10 +1,4 @@
 #include <stdio.h>
-
-/**
- * main - print numbers chars
- * Return: 0
- */
-
 int main(void)
 {
 int n;
