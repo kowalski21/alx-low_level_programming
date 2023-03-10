@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-#include <main.h>
+#include "main.h"
+#include "check_num.c"
 /**
 	 * main - Print the name of the program
 	 * @argc: Count arguments

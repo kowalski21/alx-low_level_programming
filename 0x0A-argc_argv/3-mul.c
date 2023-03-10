@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 #include "main.h"
+#include "_atoi.c"
 
 /**
  * main - multiplies two numbers
