@@ -15,8 +15,9 @@ if (text_content == NULL || filename == NULL)
 {
 return (-1);
 }
-while (text_content[fileLength] != '\0')
+if (text_content != NULL)
 {
+for (fileLength = 0; text_content[fileLength];)
 fileLength++;
 }
 
